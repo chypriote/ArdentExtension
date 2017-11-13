@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Ardent Extension",
+  "version": "0.1",
+   "browser_action": {
+   },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*.op.gg/summoner/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
