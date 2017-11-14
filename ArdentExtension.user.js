@@ -19,7 +19,8 @@ var inline_src = (<><![CDATA[
         'Nami',
         'Karma',
         'Soraka',
-        'Sona'
+        'Sona',
+        'Lulu'
     ];
     let marked = false;
 
